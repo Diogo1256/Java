@@ -1,3 +1,3 @@
-English: This is where I'll be posting some of my projects; feel free to browse.
+Português: Este projeto foi criado com o objetivo de praticar lógica de programação, manipulação de dados numéricos e implementação da fórmula de Bhaskara em Java.
 
-Português: Aqui vou publicar alguns dos meus projetos; fique à vontade para navegar.
+English: This project was created with the goal of practicing programming logic, manipulating numerical data, and implementing Bhaskara's formula in Java.
